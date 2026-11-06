@@ -2,6 +2,10 @@
 
 This repository includes files, instructions, and examples to recognize attacks against IEEE 802.1Qcc and IEEE 802.1CB. Samples and further instructions for testing can be found in each software folder.
 
+> **This version is obsolete.** It is the version described in the paper and is kept for reference only (tag `v1`). Please use `v2` (branch `main`),
+> which also works with the current Zeek (9.x LTS). The optional web interface is developed on the `web` branch.
+
+
 note: The versions mentioned below are updated and should be changed in this guideline as well.
 
 # Environment
